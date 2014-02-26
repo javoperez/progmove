@@ -1,0 +1,922 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"ArregloInicial"
+			],
+			[
+				"Sav",
+				"SaveCasMenos1"
+			],
+			[
+				"ar",
+				"arr2"
+			],
+			[
+				"Ar",
+				"Arreglo"
+			],
+			[
+				"Arregl",
+				"ArregloInicialmente"
+			],
+			[
+				"Arre",
+				"ArregloInicial"
+			],
+			[
+				"cont",
+				"contInserts"
+			],
+			[
+				"Cont",
+				"contInserts"
+			],
+			[
+				"B",
+				"busqueda"
+			],
+			[
+				"p",
+				"posicion"
+			],
+			[
+				"radio",
+				"radioIn"
+			],
+			[
+				"color",
+				"colorIn"
+			],
+			[
+				"set",
+				"setDenominador"
+			],
+			[
+				"col",
+				"colgar"
+			],
+			[
+				"Cam",
+				"cambiarCanal"
+			],
+			[
+				"apag",
+				"apagar"
+			],
+			[
+				"en",
+				"encender"
+			],
+			[
+				"El",
+				"Electrodomestico"
+			],
+			[
+				"Te",
+				"Television"
+			],
+			[
+				"Tele",
+				"Television1"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"br",
+				"bro_id"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"imprim",
+				"imprimirDeseado"
+			],
+			[
+				"Imprimir",
+				"imprimirRetro"
+			],
+			[
+				"tiempo_60",
+				"tiempo_op_60l"
+			],
+			[
+				"tiempo_op_60",
+				"tiempo_op_60k"
+			],
+			[
+				"tiempo",
+				"tiempo_op_10"
+			],
+			[
+				"tiempo_op_3",
+				"tiempo_op_30m"
+			],
+			[
+				"tiempo_op_30",
+				"tiempo_op_30b"
+			],
+			[
+				"tiempo_op_20",
+				"tiempo_op_20f"
+			],
+			[
+				"contenedor15",
+				"contenedor15value"
+			],
+			[
+				"contenedor13",
+				"contenedor13value"
+			],
+			[
+				"contenedor11",
+				"contenedor11value"
+			],
+			[
+				"contenedor7",
+				"contenedor7value"
+			],
+			[
+				"contenedor6",
+				"contenedor6value"
+			],
+			[
+				"contenedor5",
+				"contenedor5value"
+			],
+			[
+				"contenedor10",
+				"contenedor10value"
+			],
+			[
+				"contenedor9",
+				"contenedor9value"
+			],
+			[
+				"contenedor8",
+				"contenedor8value"
+			],
+			[
+				"contenedor3",
+				"contenedor3value"
+			],
+			[
+				"mater",
+				"Materia_Prima"
+			],
+			[
+				"materia",
+				"materiaprima"
+			],
+			[
+				"mat",
+				"Materia_Prima"
+			],
+			[
+				"Simulaci",
+				"Simulación"
+			],
+			[
+				"op_60",
+				"op_60K"
+			],
+			[
+				"op_40",
+				"op_40L"
+			],
+			[
+				"op_30",
+				"op_30K"
+			],
+			[
+				"op30",
+				"op_30B"
+			],
+			[
+				"op_20",
+				"op_20K"
+			],
+			[
+				"c_",
+				"c_op70"
+			],
+			[
+				"c_4",
+				"c_op40l"
+			],
+			[
+				"c_op",
+				"c_op40k"
+			],
+			[
+				"c_op30",
+				"c_op30m"
+			],
+			[
+				"c_20",
+				"c_op20k"
+			],
+			[
+				"menu",
+				"menu1"
+			],
+			[
+				"Op",
+				"Op_10a"
+			],
+			[
+				"trig",
+				"trigger2"
+			],
+			[
+				"tr",
+				"trigger2"
+			],
+			[
+				"Ce",
+				"Ceq_inversa"
+			],
+			[
+				"tiempo_op_6",
+				"tiempo_op_60l"
+			],
+			[
+				"tiempo_op_40",
+				"tiempo_op_40l"
+			],
+			[
+				"tiemp",
+				"tiempo_op_10a"
+			],
+			[
+				"tiempo_",
+				"tiempo_op_10"
+			],
+			[
+				"tiem",
+				"tiempo_op_10a"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"print",
+				"print_asegundos"
+			],
+			[
+				"def",
+				"def	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"#!",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"set",
+				"Set Syntax: Python"
+			],
+			[
+				"usr",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"encodi",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"locat",
+				"Floobits - Share Directory (Private)"
+			],
+			[
+				"class",
+				"Snippet: New Class"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"SET PY",
+				"Set Syntax: Python"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"set obj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"join",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"joi",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"floo",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"floob",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"fol",
+				"Project: Add Folder"
+			],
+			[
+				"o",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"set s obj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"set sy ob",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"set sy c",
+				"Set Syntax: C"
+			],
+			[
+				"join ",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"flo",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"set ob",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"set objet",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"work",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"send ",
+				"Floobits - Send Message"
+			],
+			[
+				"send",
+				"Floobits - Send Message"
+			],
+			[
+				"set syntax mas",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"masm",
+				"Set Syntax: MasmAssembly"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"flobi",
+				"Floobits - Join Workspace"
+			],
+			[
+				"floobits",
+				"Floobits - Join Workspace"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"set p",
+				"Set Syntax: Python"
+			],
+			[
+				"comen",
+				"Toggle Comment"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"coment",
+				"Toggle Comment"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"set symatlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"setsyc",
+				"Set Syntax: C"
+			],
+			[
+				"setsc",
+				"Set Syntax: C"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"set masm",
+				"Set Syntax: MasmAssembly"
+			],
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"floobi",
+				"Floobits - Send Message"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 252.0,
+		"history":
+		[
+			"bñe",
+			"('msg', 'come caca ps :)')",
+			"('msg', 'bro... y si le ponemos otros nombres a los archivos?')",
+			"('msg','oko')",
+			"print \"smn\"",
+			"echo \"smn\"",
+			"echo smn",
+			"wasa"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/muestreo_lista.py",
+		"/home/jd/.cache/.fr-4DMqiP/muestreo_lista.py",
+		"/home/jd/.cache/.fr-Urd0SI/transpo.py",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/clasica.py",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/frente.py",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/busqueda/muestreo.py",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/prueba.py",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/transpo.py",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/muestreov3.py",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/prueba.txt",
+		"/home/jd/Dropbox/tec8/estructuras/tarea_Busquedas/iguales.py",
+		"/home/jd/Dropbox/tec8/estructuras/estudiar/iguales.py",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/busqueda/frente.py",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/busqueda/transpo.py",
+		"/home/jd/Dropbox/tec8/estructuras/recursividad/facto_recur.py",
+		"/home/jd/Dropbox/tec8/estructuras/estudiar/factorial.py",
+		"/home/jd/Dropbox/tec8/estructuras/estudiar/fibo.py",
+		"/home/jd/Dropbox/tec8/estructuras/esfera/esfera3.py",
+		"/home/jd/Dropbox/tec8/estructuras/recursividad/factorial.py",
+		"/home/jd/Dropbox/PROGLABS/diseñohtmlv1.txt",
+		"/home/jd/.cache/.fr-DYTT3x/diseñohtmlv1.txt",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/busqueda/clasica.py",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/Ejercicio1.py",
+		"/home/jd/Dropbox/tec8/estructuras/recursividad/permutacion.py",
+		"/home/jd/Dropbox/tec8/estructuras/recursividad/permut.py",
+		"/home/jd/Dropbox/tec8/estructuras/recursividad/permu_vf.py",
+		"/home/jd/Dropbox/tec8/python/Ch5_ciclos/pcn_loop3.py",
+		"/home/jd/Dropbox/tec8/python/Ch5_ciclos/pcn_loop3.pyc",
+		"/home/jd/Dropbox/tec8/estructuras/strings/longitud.py",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/binario.py",
+		"/home/jd/Dropbox/tec8/estructuras/busquedas/ejercicio1_2.py",
+		"/home/jd/Dropbox/tec8/Diseno/sql/pymysql.py",
+		"/home/jd/Dropbox/tec8/Diseno/Barras/barras1.py",
+		"/home/jd/Dropbox/tec8/Diseno/codigos/qr2.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/mysite/urls.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/urls.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/models.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/views.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/templates/polls/detail.html",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/admin.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/mysite/settings.py",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/templates/polls/index.html",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/polls/templates/index.html",
+		"/home/jd/django/django/contrib/admin/templates/admin/app_index.html",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/templates/admin/base_site.html",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/templates/admin/templates/admin/base.html",
+		"/home/jd/Dropbox/tec8/python/Django/mysite/templates/admin/models.py",
+		"/home/jd/Dropbox/tec8/python/Django/tutorial",
+		"/home/jd/Dropbox/tec8/Diseno/Propuesta",
+		"/home/jd/Dropbox/tec8/estructuras/recursividad/fibonacci.py",
+		"/home/jd/Dropbox/JDM/simpy10/prueba2/setup.py",
+		"/home/jd/Dropbox/tec8/estructuras/esfera/setup.py",
+		"/home/jd/Dropbox/JDM/PRES_FINAL/SoftwareGenerado/PYTHON/codigofuente/version_gráfica/setup.py",
+		"/home/jd/Dropbox/tec8/Diseno/sql/creatablas",
+		"/home/jd/Dropbox/Proyecto_investigadores/DelphiCare/main.py",
+		"/home/jd/Dropbox/tec8progre/DisenoMeca/codigos/foto.py",
+		"/home/jd/Dropbox/tec8progre/DisenoMeca/codigos/qr2.py",
+		"/home/jd/Dropbox/tec8progre/DisenoMeca/codigos/qr1.py",
+		"/home/jd/tmp/ble.py",
+		"/home/jd/Dropbox/tec8progre/DisenoMeca/codigos/apy.py",
+		"/home/jd/Dropbox/tec8progre/DisenoMeca/codigos/zbar.py",
+		"/home/jd/Dropbox/tec8progre/DiseñoMeca/codigos/qr1.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/recursividad/factorial.py",
+		"/home/jd/Dropbox/tec8progre/python/daq.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/esfera/esfera3.py",
+		"/home/jd/Dropbox/tec8progre/python/POO/clases_objetos3/encapsulamiento2.py",
+		"/home/jd/Dropbox/tec8progre/python/HAXORADAS/backdoor/cliente2.py",
+		"/home/jd/Dropbox/tec8progre/python/HAXORADAS/backdoor/server.py",
+		"/home/jd/Dropbox/tec8progre/python/HAXORADAS/keylogger/kl_email.py",
+		"/home/jd/Dropbox/tec8progre/python/POO/clases_objetos4/estructuras.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/esfera/esferav2.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/esfera/visual1.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/tarea1/carro.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/tarea1/fraccion.py",
+		"/home/jd/Dropbox/tec8progre/python/POO/clases_objetos3/encapsulamiento.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/esfera/esfuerav2.py",
+		"/home/jd/Dropbox/tec8progre/estructuraDatos/esfera/esfera.py",
+		"/home/jd/Dropbox/tec7/python/POO/clases_objetos3/encapsulamiento.py",
+		"/home/jd/Dropbox/tec7/python/POO/clases_objetos2/telefono.py",
+		"/home/jd/Dropbox/tec7/python/POO/clases_objetos2/herencia.py",
+		"/home/jd/Dropbox/tec8progre/DiseñoMeca/rur.pdf",
+		"/home/jd/Dropbox/tec7/python/POO/clases_objetos1/Clase_television.py",
+		"/home/jd/Dropbox/tec7/python/POO/clases_objetos1.py",
+		"/home/jd/mysite/mysite/settings.py",
+		"/home/jd/brouserver/bro/views.py",
+		"/home/jd/brouserver/brouserver/urls.py",
+		"/home/jd/brouserver/brouserver/settings.py",
+		"/home/jd/bitcoin-0.8.6-linux/README.md",
+		"/home/jd/set/README.txt",
+		"/home/jd/TEMPO/ble.html",
+		"/home/jd/set/readme.txt",
+		"/home/jd/Dropbox/tec7/python/HAXORADAS/keylogger/xenotix.py",
+		"/home/jd/Dropbox/tec7/python/HAXORADAS/keylogger/kl_email.py",
+		"/home/jd/Downloads/metasploit-latest-linux-x64-installer (1).run",
+		"/home/jd/Downloads/metasploit-latest-linux-x64-installer.run",
+		"/home/jd/Dropbox/tec7/python/HAXORADAS/backdoor/cliente2.py",
+		"/home/jd/Dropbox/tec7/python/HAXORADAS/backdoor/cliente.py",
+		"/home/jd/Dropbox/tec7/python/HAXORADAS/backdoor/server.py",
+		"/home/jd/Dropbox/tec8progre/html/head/meta.html",
+		"/home/jd/Dropbox/tec8progre/html/imagenes/link.html",
+		"/home/jd/Dropbox/tec8progre/html/head/base.html",
+		"/home/jd/Dropbox/tec8progre/html/tittle/titulo.html",
+		"/home/jd/Dropbox/tec8progre/html/links/ids.html",
+		"/home/jd/Dropbox/tec8progre/html/links/imagen.html",
+		"/home/jd/Dropbox/tec8progre/html/links",
+		"/home/jd/Dropbox/tec8progre/html/maslinks.hml",
+		"/home/jd/Dropbox/tec8progre/html/links.html",
+		"/home/jd/brouserver/bro/urls.py",
+		"/home/jd/brouserver/bro/templates/telefonos/index.html",
+		"/home/jd/brouserver/bro/admin.py",
+		"/home/jd/brouserver/bro/models.py",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/debugger.c",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/control2.m",
+		"/home/jd/Dropbox/Proyecto_Embebidos/ARDUINOO/Sensor_Velocidad_Distancia.c",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/controladorv1.c",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/formatobonito.c",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/esclavo.m",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/Reporte, Proyecto final.docx",
+		"/home/jd/Downloads/sc_6b1.mdl",
+		"/home/jd/Downloads/Practica_5_ino/Practica_5_ino.ino",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/PWM_Sensor3.m",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/Maestro.m",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/PWM_Sensor1.m",
+		"/home/jd/Downloads/Practica_5_ino (2)/Practica_5_ino (2).ino",
+		"/home/jd/Dropbox/tec7progre/control/proyectofinal/PWM_Sensor2.m",
+		"/home/jd/Dropbox/JDM/SIMULACIONFINAL/README.txt",
+		"/home/jd/Dropbox/JDM/simpy10/codigofuentev1.py",
+		"/home/jd/Dropbox/JDM/SIMULACIONFINAL/codigofuente/readme.txt"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lista",
+			"set_lista",
+			"lista",
+			"lista_final",
+			"lista_final ",
+			"Arreglo2",
+			"arr",
+			"guardar",
+			"ContFail",
+			"Frente",
+			"frente",
+			"Resultado",
+			"guardar",
+			"Guardar",
+			"G",
+			"ContPos",
+			"pos",
+			"Pos",
+			"icion",
+			"buscar",
+			"permutacion",
+			"permutations",
+			" (",
+			"parte",
+			"tail",
+			"head",
+			"y",
+			"resultado",
+			"buscar",
+			"busqueda",
+			"dir",
+			"TEMPLATE_DIRS",
+			"TEMPLATE_DIRS ",
+			"template_dirs",
+			"template_dir",
+			"id",
+			"year",
+			"x",
+			"apellido",
+			"port",
+			"x",
+			"volumen",
+			"ball",
+			"floor",
+			"dt",
+			"esfera",
+			"esfera.velocity = vector(0,-1,0)\n		dt = ",
+			"esfera",
+			"Esfera",
+			"esfera",
+			"R",
+			"s.",
+			"s",
+			"ball",
+			"floor",
+			"0.01",
+			"600",
+			"visor",
+			"ventana",
+			"visor",
+			"v",
+			"V",
+			"visor",
+			"self.marca",
+			"marc",
+			"año",
+			"object",
+			"encender",
+			"apagar",
+			" arg",
+			"Television",
+			"Marca",
+			"marca",
+			"false",
+			"arg",
+			"html",
+			"addr",
+			"http",
+			"port",
+			"42",
+			"broulipo",
+			"comida",
+			"bro_id",
+			"function",
+			"choice",
+			"template",
+			"polls",
+			"brous",
+			"poll_id",
+			"polls",
+			"name",
+			"Telefono",
+			"Poll",
+			"polls",
+			"telefono",
+			"question",
+			"Serial.print",
+			"print",
+			"Serial.print",
+			"tmax",
+			"120",
+			"alim",
+			"retro",
+			"vpasado1",
+			"Retroalim",
+			"vretro",
+			"vref",
+			"motor",
+			"alor ",
+			"distance",
+			"salida_controlador",
+			"distancia_retro",
+			"vref",
+			"valor",
+			"vactual",
+			"vretro",
+			"distance",
+			"retro",
+			"distance",
+			"resource",
+			"cmp",
+			"20000",
+			"materia",
+			"print",
+			"duracion",
+			"menu4",
+			"geomet",
+			"geomey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ur",
+				"brouserver/urls.py"
+			],
+			[
+				"url",
+				"brouserver/urls.py"
+			],
+			[
+				"vi",
+				"bro/views.py"
+			],
+			[
+				"se",
+				"brouserver/settings.py"
+			],
+			[
+				"mo",
+				"bro/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
