@@ -41,17 +41,19 @@ class Ruta(models.Model):
 
 class RegistroSalida(models.Model):
 	def __unicode__(self):  
-		return self.fecha
+		return unicode(self.fechaOut)
 
-	fecha= models.DateField("Fecha")
+	fechaOut= models.DateField("Fecha")
+	horaOut= models.TimeField("Hora")
 	latitud= models.FloatField(default=0)
 	longitud= models.FloatField(default=0)
 
 class RegistroEntrada(models.Model):
 	def __unicode__(self):  
-		return self.fecha
+		return unicode(self.fechaIn) # Necesito pasar el unicode de fecha
 	#Folio= ID
-	fecha= models.DateTimeField("Fecha")
+	fechaIn= models.DateField("Fecha")
+	horaOut= models.TimeField("Hora")
 	latitud= models.FloatField(default=0)
 	longitud= models.FloatField(default=0)
 
@@ -66,10 +68,18 @@ class Camion(models.Model):
 	placa= models.CharField(max_length= 20)
 	asientos= models.IntegerField(max_length=60)
 
+class Cobro(models.Model):
+	cantidad=models.IntegerField(max_length=7)
 
+class Cuenta(models.Model):
+	#numeroCuenta=ID
+	tipoServicio=models.CharField(max_length=20)
+	saldo= models.IntegerField(max_length=4)
 
-
-
+class Deposito(models.Model):
+	#ID= Folio
+	cantidad= models.IntegerField(max_length=4)
+	fechaDeposito= models.DateTimeField("Fecha Deposito")
 
 
 

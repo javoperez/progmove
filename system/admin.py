@@ -1,5 +1,6 @@
 from django.contrib import admin
 from system.models import Alumno, Ruta, RegistroEntrada,RegistroSalida, Camion
+from system.models import Cobro, Cuenta, Deposito
 import base64
 import datetime
 # Register your models here.
@@ -12,20 +13,33 @@ class RutaAdmin(admin.ModelAdmin):
 	list_display = ('nombre', 'kilometraje','salida','llegada')
 
 class RegEntradaAdmin(admin.ModelAdmin):
-	list_display= ('id', 'fecha','latitud', 'longitud')
-	list_filter=['fecha']
+	list_display= ('id', 'fechaIn','latitud', 'longitud')
+	list_filter=['fechaIn']
 
 class RegSalidaAdmin(admin.ModelAdmin):
-	list_display= ('id', 'fecha','latitud', 'longitud')
-	list_filter=['fecha']
+	list_display= ('id', 'fechaOut','latitud', 'longitud')
+	list_filter=['fechaOut']
 
 class CamionAdmin(admin.ModelAdmin):
 	list_display=('nombre','placa', 'asientos', 'velocidad','latitud','longitud')
 	list_filter=['nombre']
+
+class CobroAdmin(admin.ModelAdmin):
+	list_display= ('id','cantidad')
+	
+class CuentaAdmin(admin.ModelAdmin):
+	list_display= ('id','tipoServicio','saldo')
+
+class DepositoAdmin(admin.ModelAdmin):
+	list_display= ('id','cantidad','fechaDeposito')
 
 admin.site.register(Alumno,AlumnoAdmin)
 admin.site.register(Ruta,RutaAdmin)
 admin.site.register(RegistroSalida,RegSalidaAdmin)
 admin.site.register(RegistroEntrada,RegEntradaAdmin)
 admin.site.register(Camion,CamionAdmin)
+admin.site.register(Cobro,CobroAdmin)
+admin.site.register(Cuenta,CuentaAdmin)
+admin.site.register(Deposito,DepositoAdmin)
+
 
