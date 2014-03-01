@@ -60,7 +60,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'progmove_db',
         'USER': 'jd',
-        'PASSWORD': 'rhjdss',
+        'PASSWORD': 'rhjdss777',
         'HOST': 'localhost' ,
         'PORT':'8000',
     }

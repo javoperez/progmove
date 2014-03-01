@@ -2,7 +2,13 @@
 #-*- encoding: -utf-8-*-
 
 
-from django.db import models
+from django.db import models #Libreria de Django
+import base64
+
+
+"""import getpass #Libreria de Passwords
+import crypt # Libreria para encriptar
+"""
 
 # Aqui creo las tablas:
 
@@ -11,12 +17,18 @@ class Alumno(models.Model):
 	def __unicode__(self):  
 		return self.matricula
 
-	nombre = models.CharField(max_length=20)
-	nom_paterno= models.CharField(max_length=20)
-	nom_materno= models.CharField(max_length=20)
+	def encriptar(self): ### VERIFICAR COMO Mandarla llamar y meterla en var "encriptado"
+		self.textocodificado = base64.encodestring(self)
+		return self.textocodificado;
+
+	nombre1 = models.CharField(max_length=20)
+	nombre2= models.CharField(max_length=20, null=True, blank=True) # Ojo, puede ser nulo
+	ap_paterno= models.CharField(max_length=20)
+	ap_materno= models.CharField(max_length=20)
 	matricula= models.CharField(max_length=10)
-	fecha_alta = models.DateTimeField('Inicio')
+	fecha_alta = models.DateField('Inicio')
 	contrasena= models.CharField(max_length=30)
+	encriptado= models.CharField(max_length=100, null=True, blank= True) 
 
 class Ruta(models.Model):
 	def __unicode__(self):  
@@ -24,4 +36,40 @@ class Ruta(models.Model):
 	nombre=models.CharField(max_length=40)
 	salida=models.TimeField("Hora Salida")
 	llegada= models.TimeField("Hora Llegada")
-	distancia= models.IntegerField(max_length=5)
+	kilometraje= models.IntegerField(max_length=5)
+
+
+class RegistroSalida(models.Model):
+	def __unicode__(self):  
+		return self.fecha
+
+	fecha= models.DateField("Fecha")
+	latitud= models.FloatField(default=0)
+	longitud= models.FloatField(default=0)
+
+class RegistroEntrada(models.Model):
+	def __unicode__(self):  
+		return self.fecha
+	#Folio= ID
+	fecha= models.DateTimeField("Fecha")
+	latitud= models.FloatField(default=0)
+	longitud= models.FloatField(default=0)
+
+class Camion(models.Model):
+	def __unicode__(self):  
+		return self.nombre
+	#id= por default
+	nombre= models.CharField(max_length=40)
+	latitud= models.FloatField(default=0)
+	longitud= models.FloatField(default=0)
+	velocidad= models.FloatField(default=0)
+	placa= models.CharField(max_length= 20)
+	asientos= models.IntegerField(max_length=60)
+
+
+
+
+
+
+
+
